@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://jvlavan.github.io/vmhsscloud/sitemap.xml
